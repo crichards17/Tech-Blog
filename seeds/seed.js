@@ -14,4 +14,4 @@ const seedDb = async() => {
     process.exit(0);
 };
 
-seedDb();
+module.exports = { seedDb };

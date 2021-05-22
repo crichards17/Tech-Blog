@@ -1,10 +1,10 @@
 :root {
-    --primary: #ccdad1;
-    --secondary: #dce9d5;
-    --tertiary: #788585;
-    --light-dark: #a1a0a1;
-    --dark: #201110;
-    --border-radius: .3rem;
+    --primary: #ccd8da;
+    --secondary: #d5e9e4;
+    --tertiary: #d3cfca;
+    --light-dark: #b88e5d;
+    --dark: #040c27;
+    --border-radius: .2rem;
 }
 
 * {
@@ -117,7 +117,6 @@ p {
     padding: 0 10px;
     display: inline-block;
     border-radius: var(--border-radius);
-    box-shadow: 6px 5px var(--light-dark);
 }
 
 .list-group {
