@@ -14,7 +14,7 @@
 
 ## Demo
 Landing page:
-![Landing Page](./Assets/Demo/Demo_1_cropped.gif)
+![Landing Page](./assets/sample.PNG)
 
 ## Questions  
 My GitHub profile: [crichards17](https://github/crichards17)  
